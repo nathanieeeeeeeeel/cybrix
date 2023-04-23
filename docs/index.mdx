@@ -1,11 +1,37 @@
-# Cybrix Bot
-## Getting Started
-To get started, just run the `/setup` command on your server.
+# My Discord Bot
 
-## Setting up the bot
-```
-Step 1: Invite the bot to your server
-Step 2: Grant permissions to the bot
-Step 3: Run the `/setup` command
-Step 4: Your bot is ready to go!
-```
+My Discord Bot is a customizable bot for Discord servers, written in Python. It can be used to perform a wide range of tasks, from moderating channels to playing music to providing server statistics.
+
+## Features
+
+- Moderation commands to manage channels, users, and roles
+- Music commands to play songs and playlists from YouTube
+- Fun commands to generate memes, jokes, and trivia questions
+- Server statistics commands to display user and channel activity
+- Customizable configuration options for server-specific settings
+
+## Installation
+
+To install the bot on your server, you'll need to have Python 3.6 or later installed. You'll also need to create a new Discord application and add it to your server. Once you've done that, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Create a virtual environment for the project using `virtualenv` or `venv`.
+3. Activate the virtual environment and install the required packages using `pip install -r requirements.txt`.
+4. Rename the `config.example.py` file to `config.py` and fill in the required information, such as your bot's token and the IDs of the channels you want to use.
+5. Run the bot using `python bot.py`.
+
+## Usage
+
+Once the bot is up and running, you can use it by typing commands in any channel that it has access to. The default command prefix is `!`, but this can be changed in the configuration file. Here are a few example commands:
+
+- `!help`: Displays a list of available commands.
+- `!play <song>`: Plays a song from YouTube.
+- `!kick <user>`: Kicks a user from the server.
+
+## Contributing
+
+We welcome contributions to this bot from anyone in the community. To contribute, simply fork the repository, make your changes, and submit a pull request. We'll review your changes and merge them if they fit with our guidelines and goals.
+
+## License
+
+This bot is licensed under the MIT License. You are free to use, modify, and distribute this code for any purpose, as long as you include the original copyright notice and license statement. See the [LICENSE](./LICENSE) file for more details.
