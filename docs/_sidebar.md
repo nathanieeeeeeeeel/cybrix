@@ -1,5 +1,3 @@
-* [Home](/)
-* [Guide](guide.md)
 - Getting Started
 
   - [Quick Start](/en/getting-started/quick-start.md)
