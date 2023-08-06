@@ -1,6 +1,6 @@
 ![logo](_media/googleturtle.svg ':size=100')
 
-# Carl-bot
+# Cybrix
 
 > Welcome to the Documentation
 
