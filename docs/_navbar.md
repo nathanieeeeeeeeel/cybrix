@@ -1,7 +1,15 @@
-* [Invite](https://discord.com/oauth2/authorize?&client_id=235148962103951360&scope=applications.commands+bot&permissions=2088234230&response_type=code&redirect_uri=https://carl.gg/api/server_auth)
-* [Dashboard](https://carl.gg)
-* [Premium](https://www.patreon.com/carlbot)
-* Support
-    * [Discord](https://discord.gg/S2ZkBTnd8X)
-    * [Twitter](https://twitter.com/carl_discord)
-* [Status](https://carl.gg/status)
+<!-- _navbar.md -->
+
+* Getting started
+
+  * [Quick start](quickstart.md)
+  * [Writing more pages](more-pages.md)
+  * [Custom navbar](custom-navbar.md)
+  * [Cover page](cover.md)
+
+* Configuration
+  * [Configuration](configuration.md)
+  * [Themes](themes.md)
+  * [Using plugins](plugins.md)
+  * [Markdown configuration](markdown.md)
+  * [Language highlight](language-highlight.md)
