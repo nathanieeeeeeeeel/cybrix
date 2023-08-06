@@ -4,6 +4,6 @@
 
 > Welcome to the Documentation
 
-Don't be shy, we are open source so feel free to improve the docs
+A powerful Discord bot for all your server needs
 
 [Get Started](#documentation)
