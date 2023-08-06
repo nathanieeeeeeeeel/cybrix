@@ -8,8 +8,11 @@ See the **[Getting Started](/getting-started)** guide for more details.
 
 ## Features
 
-- Feature #1
-- Feature #1
-- Feature #1
-- Feature #1
-- Feature #1
+- Moderation
+- Interactive games
+- Utilities
+- And other useful features..
+
+## Support
+
+Need help? Join our [Discord Server](http://cybrix.itspotatotime.xyz/support) for support.
