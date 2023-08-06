@@ -6,7 +6,7 @@ Welcome to the documentation for the Cybrix Discord bot. This bot is designed to
 
 To add Cybrix bot to your Discord server, follow these steps:
 
-1. Go to the [Cybrix Bot Website](https://www.cybrix.xyz) and click on the "Add to Discord" button.
+1. Go to the [Cybrix Bot Website](https://cybrix.itspotatotime.xyz/) and click on the "Add Bot" button located at the bottom of the webpage.
 2. Authorize the bot to access your server by following the prompts.
 3. Once authorized, Cybrix will be added to your server.
 
