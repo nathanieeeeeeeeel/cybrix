@@ -1,5 +1,7 @@
 <!-- _navbar.md -->
 
+* Home(https://cybrix.itspotatotime.xyz/)
+
 * Getting started
 
   * [Quick start](quickstart.md)
