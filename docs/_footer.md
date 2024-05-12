@@ -1,1 +1,1 @@
-Copyright © 2023 [CyBrix](https://cybrix.itspotatotime.xyz/)
+Copyright © 2024 [CyBrix](https://cybrix.itspotatotime.xyz/)
